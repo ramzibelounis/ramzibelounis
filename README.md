@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ramzi
-- 👀 I’m interested in programing
+- 👀 I’m interested in programming
 - I want to work in cybersecurity
 
 <!---
